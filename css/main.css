@@ -1,0 +1,33 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.nav-link {
+    color: navy;
+}
+
+.brand {
+    width: 30px;
+    height: 30px
+}
+
+.card {
+    margin-top: 10px;
+    background-color: azure;
+    border-radius: 15px;
+    color: navy;
+    width: 18rem;
+}
+
+footer {
+    padding: 10px 10px 10px 10px;
+    background-color: #0d6efd;;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
